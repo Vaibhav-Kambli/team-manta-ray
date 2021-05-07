@@ -74,7 +74,7 @@ The project uses MongoDB as a database. Please follow this [installation guide](
 
 ## Install
 
-`$ git clone https://github.com/hatchways/team-manta-ray.git`
+`$ git clone https://github.com/Vaibhav-Kambli/team-manta-ray.git`
 
 ## Start Backend Server
 
