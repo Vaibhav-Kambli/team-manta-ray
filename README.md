@@ -4,7 +4,7 @@ It’s always nice to have a homecooked meal that is authentic and made in your 
 
 ## Live Site
 
-https://chef-booking-app.herokuapp.com/login
+<https://chef-booking-app.herokuapp.com/login>
 
 ## Tech Stack
 
@@ -19,11 +19,11 @@ https://chef-booking-app.herokuapp.com/login
 
 ## Getting started
 
-The project is broken down into a client and server folder.
+_The project is broken down into a client and server folder_
 
 ### Login
 
-#### You can use the demo login to sign in directly
+#### _You can use the demo login to sign in directly_
 
 ![login](https://user-images.githubusercontent.com/51274039/117385865-dc19f600-aeb3-11eb-9634-77b3b37a70f3.gif)
 
@@ -53,11 +53,11 @@ The project is broken down into a client and server folder.
 
 ## Requirements
 
-### MongoDB
+### _MongoDB_
 
 The project uses MongoDB as a database. Please follow this [installation guide](https://docs.mongodb.com/manual/installation/) in how to install and start your local database server.
 
-### Root .env configurations
+### _Root .env configurations_
 
     • GOOGLE_MAPS_API_KEY= {`Your Google Map API Key`}
     • AWS_ID={`Your AWS ID`}
@@ -67,7 +67,7 @@ The project uses MongoDB as a database. Please follow this [installation guide](
     • JWT_SECRET={`JWT Secret`}
     • STRIPE_SECRET={`Stripe Secret`}
 
-### Client .env config
+### _Client .env config_
 
     • REACT_APP_MAPBOX_TOKEN ={`Mapbox Token`}
     • REACT_APP_STRIPE_PUBLIC_KEY={`Stripe Public Key`}
