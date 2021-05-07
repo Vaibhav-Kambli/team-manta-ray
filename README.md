@@ -23,7 +23,7 @@ The project is broken down into a client and server folder.
 
 ### Login
 
-###### You can use the demo login to sign in directly
+#### You can use the demo login to sign in directly
 
 ![login](https://user-images.githubusercontent.com/51274039/117385865-dc19f600-aeb3-11eb-9634-77b3b37a70f3.gif)
 
